@@ -1,0 +1,29 @@
+CS 5001 Fall 2019
+HW 7 Design
+Joviane Bellegarde
+12/5/19
+
+For my design, I was trying to use functions called in the main to read the
+room, item, and puzzles and monsters file and make dictionaries with their
+objects as values and either the name, or number of the item from the list
+as the key.
+
+I call the menu function in the while loop, to keep prompting the user
+to make a choice of north, south, east, or west. With this menu, they can also
+choose inventory, look, use, take, drop, look, or quit. The courtyard print
+statement then prints where the user originally starts, which would be in the
+courtyard.
+
+My intention of the while True loop was to have the choice that the user
+choose from the menu and then eventually past through a function called
+direction to move from room to room and another function called do_things that
+will enable the program to add/remove/print a list of the items the user
+interacted with. This function may have added things into a list by using the
+classes in the other file for items.
+
+I did not have the opportunity to finish this game, but I understand the main
+logic. I just ran out of time to code it because I was really hung up over using
+classes and objects to try to get my code to work. At least this HW allows me
+to realize where my weaknesses are and to better study for the final.
+
+
