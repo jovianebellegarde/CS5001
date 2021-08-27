@@ -1,0 +1,33 @@
+'''
+CS5001 Fall 2019
+HW 3 Written
+Joviane Bellegarde
+9/30/19
+'''
+
+1. while user_in != 'Y' and user_in != 'N':
+ 
+ 
+2a. 1, 2, 5, 2, 3, 4, 6
+
+2b. i is 1
+
+2c. Line 5 will be executed 2 times.
+
+2d. i is 4
+
+
+3. the value of sum is 3
+
+
+4a. 1
+    2
+    3
+   
+4b. 0
+    1
+    2
+   
+4c. 3
+    2
+    1
