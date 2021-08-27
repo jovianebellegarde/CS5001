@@ -1,0 +1,32 @@
+Joviane Bellegarde
+CS5001
+Fall 2019
+HW2 (Functions and Conditionals)
+9/20/19
+
+
+1. a) dabba
+      dabba
+
+b) dabba
+   yabba
+   dabba
+
+c) dabba
+   yabba
+   dabba
+
+
+2. a) print_formatted('hello')
+
+b) integers = get_max(x, y)
+
+c) integer = log_base_two(x)
+
+
+3. a) World
+
+b) Hello
+   World
+
+c) x = 5
